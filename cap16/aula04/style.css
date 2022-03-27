@@ -1,0 +1,56 @@
+body{
+    font: 18px Arial;
+    background-image: linear-gradient(to right, rgb(124, 7, 7),rgb(92, 55, 92));
+}
+
+nav > a{
+   color: black;
+   padding: 10px;
+   
+
+}
+a:hover{
+    text-transform: uppercase;
+}
+h1{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+
+}
+nav{
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 10px;
+    border: 10px solid white;
+    box-shadow: 0.5px 0.5px 5px 1px rgba(128, 128, 128, 0.637);
+
+
+}
+footer{
+    background-color: slategray;
+    text-align: center;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: 0.5px 0.5px 5px 1px rgba(128, 128, 128, 0.637);
+}
+    section > article{
+    background-color: burlywood;
+    padding: 10px;
+    text-align: justify;
+    text-indent: 12px;
+  
+}
+main{
+   background-color: aliceblue;
+   padding: 10px;
+   border-radius: 12px;
+   margin-bottom: 12px;
+   margin-top: 12px;
+   box-shadow: 0.5px 0.5px 5px 1px rgba(128, 128, 128, 0.637);
+}   
+header > h1{
+    box-shadow: 0.5px 0.5px 5px 1px rgba(128, 128, 128, 0.637);
+
+}

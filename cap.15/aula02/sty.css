@@ -1,0 +1,51 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+body{
+    background-image: linear-gradient(to bottom,#D8D9C5, #F2AC57,#A63F03,#401903,#731702);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1{
+    color: #8a6c60;
+    text-align: center;
+    font: normal 25pt 'Roboto Condensed', sans-serif;
+    
+}
+h1.principal{
+    text-indent: 25px;
+    text-shadow: #5241375d 0.5px 0.5px 0.5px;
+    text-align: left;
+    font-size: 2em;
+    color: #ac7b5c;
+}
+h2{
+    color: #752615;
+    text-indent: 5px;
+}
+.básico{
+    color: #30160d;
+}
+.intermedio{
+    color: #592418;
+}
+.avanced{
+    color: #8C543F;
+}
+p{
+    text-indent: 15px;
+    font: normal 10pt'Merienda', cursive;
+    
+   
+    
+}
+#video{
+    text-align: center;
+    
+}
+
+section{
+    background-color: white;
+    border-radius: 15px;
+    border-style: double;
+}

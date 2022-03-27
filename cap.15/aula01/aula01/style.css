@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to bottom,#D8D9C5, #F2AC57,#A63F03,#401903,#731702);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1{
+    color: #000000;
+    text-align: center;
+    
+}
+h1#principal{
+    text-indent: 25px;
+    text-shadow: #db6969 1px 1px 1px;
+    text-align: left;
+    font-size: 2em;
+    color: #000000;
+}
+h2{
+    color: #752615;
+    text-indent: 5px;
+}
+p{
+    text-indent: 15px;
+}
+section{
+    background-color: white;
+    border-radius: 15px;
+    border-style: double;
+}

@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to left, #141F26,#223740, #5D7369);
+}
+h2, h3{
+   font-family: sans-serif;
+   font-size: 1em;
+   /*usar sempre 'em' ou 'px'*/
+}
+main{
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  width: 800px;
+  margin: auto;
+  text-align: justify;
+}
+section{
+  height: 25px;
+  padding: 20px;
+  width: 100px;
+  background-color: aliceblue;
+  border-radius: 20px;
+}

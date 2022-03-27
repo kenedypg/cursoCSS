@@ -1,0 +1,27 @@
+div#barrauol{
+    background-color: #262626;
+    color: #FFF;
+    font: 14px UOLText,sans-serif,Helvetica,Arial;
+    height: 44px;
+    margin: 0px;
+    max-height: 44px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    z-index: 9;
+}
+div#barrauol { 
+    padding-right: 25px;
+    text-indent: 20px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+    
+}
+a:hover{
+    transition: all .1s linear;
+}
